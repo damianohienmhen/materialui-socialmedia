@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ff21cb0e.js",
+    "static/media/paella.jpg": "/static/media/paella.83b0d637111a6f69434e.jpg",
+    "index.html": "/index.html",
+    "main.ff21cb0e.js.map": "/static/js/main.ff21cb0e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ff21cb0e.js"
+  ]
+}
